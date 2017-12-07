@@ -2,7 +2,7 @@
 
 If necessary, scaffold out the html. This should be done automatically by jsbin
 
-* Tell students to navigate to [jsbin.com](jsbin.com)
+* Tell students to navigate to [jsbin.com](http://jsbin.com)
 
 * Ensure that they have only the `HTML`, `CSS`, and `Output` tabs are selected
 
